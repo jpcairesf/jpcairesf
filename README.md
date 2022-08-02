@@ -4,7 +4,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando Engenharia Elétrica na <a href="http://www.eng.ufba.br">UFBA</a>.
-- 💼 &nbsp; Estagiando como Desenvolvedor na <a href="maps.com.br">MAPS</a>
+- 💼 &nbsp; Estagiando como Desenvolvedor na <a href="http://www.maps.com.br">MAPS</a>
 - 🌱 &nbsp; Estudando mais sobre Java, AngularJS e DevOps.
 
 <h3> :rocket: &nbsp;Skills </h3>
