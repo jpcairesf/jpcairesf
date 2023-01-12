@@ -34,7 +34,7 @@
 <br/>
 
 <a href="https://github.com/jpcairesf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcairesf&theme=tokyonight&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcairesf&theme=tokyonight&hide_langs_below=1&count_private=true&user=jpcairesf" />
 </a>
 
 <br/>
