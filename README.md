@@ -2,10 +2,15 @@
 ![](https://komarev.com/ghpvc/?username=jpcairesf&color=006bed)
 
 <h3> :man: &nbsp;About me</h3>
+
 Software Engineer with Java and Spring expertise
+
 AWS Certified Solutions Architect and Cloud Practitioner
+
 Electrical Engineer and C1 advanced english certified
+
 Always deep diving into technology and contributing with the community
+
 <h3> :rocket: &nbsp;Skills </h3>
 
 **Languages**
