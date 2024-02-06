@@ -2,13 +2,10 @@
 ![](https://komarev.com/ghpvc/?username=jpcairesf&color=006bed)
 
 <h3> :man: &nbsp;About me</h3>
-Software Engineer with strong Java and Spring skills. AWS Certified Solutions Architect and Cloud Practitioner. Electrical Engineer and C1 advanced english certified.
-
-Passionate about using technology to solve real-world problems and always looking for challenging opportunities to contribute to the success of a high-performing team. 
-
-Experienced in designing, developing, and maintaining complex software solutions with expertise in Brazilian Open Banking, treasury systems, and payment management systems. 
-
-Proven ability to lead and manage teams and implement business strategies due to former marketing experience.
+Software Engineer with Java and Spring expertise
+AWS Certified Solutions Architect and Cloud Practitioner
+Electrical Engineer and C1 advanced english certified
+Always deep diving into technology and contributing with the community
 <h3> :rocket: &nbsp;Skills </h3>
 
 **Languages**
@@ -46,7 +43,6 @@ Proven ability to lead and manage teams and implement business strategies due to
   ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
   ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-  
 
 <br/>
 
