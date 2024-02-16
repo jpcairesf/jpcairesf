@@ -1,6 +1,3 @@
-
-![](https://komarev.com/ghpvc/?username=jpcairesf&color=006bed)
-
 <h3>About me</h3>
 
 Software Engineer with Java and Spring expertise, always deep diving into technology and contributing with the community.
