@@ -4,7 +4,7 @@ WFH dev in a countryside city. Java and Spring expertise focused on financial so
 
 Electrical Engineer. Certified AWS Solutions Architect, AWS Cloud Practitioner and C1 advanced english.
 
-Nerd obsessed with productivity and health. Currently deploying my workflow into the CLI.
+https://jpcairesf.github.io/blog
 
 
 <h3>Skills</h3>
