@@ -1,6 +1,6 @@
 <h3>About me</h3>
 
-SWE @ Coinbase on Staking Platform team. Retired Tibia pro player.
+SWE @ Coinbase, Staking Platform team. Retired Tibia pro player.
 
 blog: https://jpcairesf.github.io/blog
 
